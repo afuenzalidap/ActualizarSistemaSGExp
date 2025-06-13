@@ -35,7 +35,7 @@ Partial Class Form1
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(492, 40)
         Me.Label1.TabIndex = 5
-        Me.Label1.Text = "Hay una actualizavción disponible. Desea continuar?"
+        Me.Label1.Text = "Hay una actualización disponible. Desea continuar?"
         '
         'Panel1
         '
@@ -60,10 +60,10 @@ Partial Class Form1
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(292, 19)
+        Me.Button1.Location = New System.Drawing.Point(265, 19)
         Me.Button1.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(112, 36)
+        Me.Button1.Size = New System.Drawing.Size(139, 36)
         Me.Button1.TabIndex = 3
         Me.Button1.Text = "Actualizar"
         Me.Button1.UseVisualStyleBackColor = True
